@@ -7,7 +7,7 @@ Nous avons choisi de représenter les données des ondes électromagnétiques de
 
 Langages : Javascript, HTML, CSS.
 
-Outils : Vscode, API de Nantes Métropole, librairy Three.js, Figma, Vscode, Trello, Github.
+Outils : Vscode, API de Nantes Métropole, library Three.js, Figma, Vscode, Trello, Github.
 
 Fonctionnalités : Représentation des données, appel d'une API.
 
